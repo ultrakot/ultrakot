@@ -8,22 +8,23 @@
 
 
 
-- mainly C#                                                                      |  ![arduino project](/eyeswithknockelement.jpg) 
-- python                                                                         |
-- react                                                                          |
-- C++                                                                            |
-- a little NodeJs                                                                |
-- all html/css/js vanilla front end development                                  |
-- unity (mainly not here, github and games depositories dont mix very well)      |
+- mainly C#                                                                 
+- python                                                                        
+- react                                                                          
+- C++                                                                           
+- a little NodeJs                                                              
+- all html/css/js vanilla front end development                                  
+- unity (mainly not here, github and games depositories dont mix very well)     
 
 - mongoDB
 - SQL (either MS or Oracle)
 
 #### open to collaborations and small projects 
 #### 🤖 mostly fullstack development and arduino contraption projects 🔭
+ ![arduino project](/rsz_arduino.jpg) 
 
 
-
+     
 <!--
 **ultrakot/ultrakot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
