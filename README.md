@@ -2,7 +2,7 @@
 ## ⚡  i build sites, games and small electronic gadgets 
 -----------
 
-|  |  |   |
+|  |  |  | |
 | ------ | ------ |---| ----- |
 | ![c++](/stackLogos/cpp_48x48.png) | ![c#](/stackLogos/csharp_48x48.png)  | ![python](/stackLogos/python_48x48.png) | ![react](/stackLogos/react_48x48.png) 
 | ![MongoDB](/stackLogos/mongodb_48x48.png) | ![oracle](/stackLogos/oracle_48x48.png) | ![sql](/stackLogos/sql_server_48x48.png) | ![NodeJS](/stackLogos/nodejs_48x48.png)
