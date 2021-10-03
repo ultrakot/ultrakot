@@ -1,7 +1,8 @@
 ## Well Hello there 😄
 
 #### 💫**so you found yourself on my Github, welcome**💫
-#### 🤖 mostly fullstack development and arduino contraption projects 🔭
+## ⚡  i build sites, games and small electronic gadgets 
+
 
 -----------
 
@@ -17,7 +18,7 @@
 - SQL (either MS or Oracle)
 
 #### open to collaborations and small projects 
-## ⚡  i build sites, games and small electronic gadgets 
+#### 🤖 mostly fullstack development and arduino contraption projects 🔭
 
 <!--
 **ultrakot/ultrakot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
