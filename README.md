@@ -11,9 +11,9 @@
 | ![Unity](/stackLogos/unity_48x48.png) | ![html](/stackLogos/html_48x48.png) | ![css](/stackLogos/css_48x48.png) | ![javascript](/stackLogos/javascript_48x48.png) |
                                                                         
 
-🎨 game dev and animator
-💡  maker 
-🤩 peoples person 
+- 🎨 game dev and animator
+- 💡  maker 
+- 🤩 peoples person 
 
 
 #### open to collaborations and small projects 
