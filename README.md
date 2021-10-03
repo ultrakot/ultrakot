@@ -1,17 +1,12 @@
 #### Well Hello there 😄, 💫**so you found yourself on my Github, welcome**💫
 ## ⚡  i build sites, games and small electronic gadgets 
 -----------
-- mainly C#
 
-![C#](https://github.com/abranhe/programming-languages-logos/blob/master/src/csharp/csharp_48x48.png)  | ![C++](https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png)
-                                                                
-![python]() ![react]()
-![html]() ![NodeJS]() ![Unity]() ![MongoDB]() ![SQL]()
+![c++](/stackLogos/cpp_48x48.png) ![c#](/stackLogos/csharp_48x48.png) ![python](/stackLogos/python_48x48.png) ![react](/stackLogos/python_48x48.png)
+![MongoDB](/stackLogos/mongodb_48x48.png) ![oracle](/stackLogos/oracle_48X48.png) ![sql](/stackLogos/sql_server_48x48.png) ![NodeJS](/stackLogos/nodejs_48x48.png)
+![Unity](/stackLogos/unity_48x48.png) 
+![html](/stackLogos/html_48x48.png) ![css](/stackLogos/css_48x48.png) ![javascript](/stackLogos/javascript_48x48.png)
                                                                         
-- a little NodeJs                                                              
-- all html/css/js vanilla front end development                                  
-- unity (mainly not here, github and games depositories dont mix very well)     
-
 
 #### open to collaborations and small projects 
 #### 🤖 mostly fullstack development and arduino contraption projects 🔭
