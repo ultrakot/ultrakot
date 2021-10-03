@@ -16,7 +16,7 @@
 - mongoDB
 - SQL (either MS or Oracle)
 
-## open to collaborations and small projects 
+#### open to collaborations and small projects 
 ## ⚡  i build sites, games and small electronic gadgets 
 
 <!--
