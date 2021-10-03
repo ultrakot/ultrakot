@@ -3,8 +3,10 @@
 #### 💫**so you found yourself on my Github, welcome**💫
 ## ⚡  i build sites, games and small electronic gadgets 
 
-
+![led heart](/arduino.jpg)
 -----------
+
+
 
 - mainly C# 
 - python
