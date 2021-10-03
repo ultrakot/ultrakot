@@ -1,4 +1,23 @@
-### Hi there 👋
+## Well Hello there 😄
+
+#### 💫**so you found yourself on my Github, welcome**💫
+#### 🤖 mostly fullstack development and arduino contraption projects 🔭
+
+-----------
+
+- mainly C# 
+- python
+- react 
+- C++
+- a little NodeJs
+- all html/css/js vanilla front end development
+- unity (mainly not here, github and games depositories dont mix very well)
+
+- mongoDB
+- SQL (either MS or Oracle)
+
+## open to collaborations and small projects 
+## ⚡  i build sites, games and small electronic gadgets 
 
 <!--
 **ultrakot/ultrakot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
