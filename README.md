@@ -4,7 +4,8 @@
 - mainly C#                                                                 
 - python                                                                        
 - react                                                                          
-- C++                                                                           
+-![C++](https://github.com/abranhe/programming-languages-logos/blob/master/src/cpp/cpp_48x48.png) 
+                                                                        
 - a little NodeJs                                                              
 - all html/css/js vanilla front end development                                  
 - unity (mainly not here, github and games depositories dont mix very well)     
