@@ -1,6 +1,5 @@
 #### Well Hello there 😄, 💫**so you found yourself on my Github, welcome**💫
-## ⚡  i build sites, games and small electronic gadgets  ![arduino project](/rsz_arduino.jpg) 
-
+## ⚡  i build sites, games and small electronic gadgets 
 -----------
 - mainly C#                                                                 
 - python                                                                        
@@ -15,6 +14,7 @@
 
 #### open to collaborations and small projects 
 #### 🤖 mostly fullstack development and arduino contraption projects 🔭
+ ![arduino project](/rsz_arduino.jpg) 
 
 
      
