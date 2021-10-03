@@ -3,7 +3,7 @@
 #### 💫**so you found yourself on my Github, welcome**💫
 ## ⚡  i build sites, games and small electronic gadgets 
 
-![led heart](/arduino.jpg)
+
 -----------
 
 
@@ -21,6 +21,9 @@
 
 #### open to collaborations and small projects 
 #### 🤖 mostly fullstack development and arduino contraption projects 🔭
+
+![arduino project](/eyeswithknockelement.jpg)
+
 
 <!--
 **ultrakot/ultrakot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
