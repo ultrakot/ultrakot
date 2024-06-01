@@ -1,4 +1,4 @@
-#### Well Hello there 😄, 💫**so you found yourself on my Github, welcome**💫
+
 ## ⚡  i build sites, games and small electronic gadgets 
 -----------
 
